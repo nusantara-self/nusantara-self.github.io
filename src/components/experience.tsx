@@ -25,6 +25,15 @@ const experience = [
         },
     },
     {
+        company: "SANS Institute",
+        position: "Attendee - Cybersecurity masterclasses & certification",
+        date: "Sep 2022 | July 2023",
+        desc: {
+            1: "MGT551 - Building & Leading Security Operations Center (Sep 2022). Resulted in GIAC Security Operations Manager certification 4 months later (Jan 2023).",
+            2: "SEC599 - Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (July 2023)"
+        },
+    },
+    {
         company: "Decathlon Technology",
         position: "SOC Practice Lead",
         date: "Jan 2019 - till now ",
@@ -33,15 +42,6 @@ const experience = [
             2: "2020 - I start my cloud security journey. CSPM technical implementation & design at global scale.",
             3: "2021 - As a SOC Technical Leader, designing & setting up SOC tooling with an automation-friendly mindset, also ended up managing two amazing teammates to fulfill this purpose. Designed & built SOC cloud infrastructure.",
             4: "Aug 2022 - Designing overall SOC approach, strategy, processes, tools & metrics with an automation-driven mindset. Increasing its efficiency & aligning SOC use-cases with threat intelligence & business needs. Internal team of five."
-        },
-    },
-    {
-        company: "SANS Institute",
-        position: "Attendee - Cybersecurity masterclasses & certification",
-        date: "Sep 2022 | July 2023",
-        desc: {
-            1: "MGT551 - Building & Leading Security Operations Center (Sep 2022). Resulted in GIAC Security Operations Manager certification 4 months later (Jan 2023).",
-            2: "SEC599 - Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (July 2023)"
         },
     },
 ];
