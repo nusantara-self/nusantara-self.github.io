@@ -2,27 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nusantara-self.github.io/blog</id>
     <title>Fabien Bloume Blog</title>
-    <updated>2022-09-25T00:00:00.000Z</updated>
+    <updated>2022-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nusantara-self.github.io/blog"/>
     <subtitle>Fabien Bloume Blog</subtitle>
     <icon>https://nusantara-self.github.io/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[The beauty in our world]]></title>
-        <id>https://nusantara-self.github.io/blog/the-beauty-in-our-world</id>
-        <link href="https://nusantara-self.github.io/blog/the-beauty-in-our-world"/>
-        <updated>2022-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<ReactPlayer]]></summary>
-        <content type="html"><![CDATA[<div style="width:640px;height:360px" class="react-player"></div><p></p><p><strong>What an era we live in.</strong></p><p>Not sure if every human being on earth that existed over the thousands of years <em>(which is an insignifiant amount of time to be fair)</em> commonly felt that way about their era, but wow, guess we've found ourselves a winner, as I feel like we're in <strong>a truly special era</strong> of our humankind.</p><p>I'm a 95' kid, and I noticed the world switch.</p><p>Communication platforms were just single channels in <em>now-retro</em> TV, we had analog phones at best (<em>which was already incredible</em>). Now, we get to have immensely powerful computer chips in our pockets; occasionnally telling us what we should buy next and triggering bell sounds every now and then, making sure we stay "<em>connected</em>".</p><p>Our world completely transformed, <em>technologically</em>, <em>socially</em> for the better or worse. I'll stand with the better.</p><p>We have been <em>(unequally)</em> blessed with the <strong>ability to teleport</strong>. We literally have the ability to visit or live in <em>very, very</em> distant lands in less than a day. A land where no one lives the way we're used to, where people express differently in words and body language.
-And.. we may stay in this land for short or long times, sometimes never even coming back. What would have been a trip of a lifetime earlier is possible today in a single day.
-Knowing what's outside of our environment is now easier than ever.  Putting into perspective how cultures, beliefs and religions are all tied to the environment we grow up in.</p><p><strong>Anyone is free to learn anything</strong>. We <strong><em>almost equally have access</em></strong> to the <strong>most complete encyclopedias the world has known</strong>, search engines, making the most profound knowledge database accessible to the many. We also have the <strong>superpower to interact with physically distant people in real-time</strong>, even with people we may never even meet physically in our lifetime. Crazy.</p><p>We've got entire countries powered by electricity, to which the same physics principles can be applied to make electronic sounds translating into music. <a href="https://youtu.be/8W49pp_HN7w?t=134" target="_blank" rel="noopener noreferrer">Playing single notes in divine symphony, creating the dream of a perfect melody</a>.</p><p>We are the generation of the infinite and finite, the generation of the all or nothing, the one that is about to have it all or destroy it all.
-Our meaning is to strive for the better, take the advantage of each opportunities this craziness times bring to us.</p><p>At least we would have tried. And sometimes, trying is good enough.</p><p>And if one day the clock stops ticking, at least I'll have this content to be up till the end of times.. <em>or just till the end of this hosting platform.</em></p><p><a href="https://www.youtube.com/watch?v=2ZAWXs9QOfo&amp;t=28s" target="_blank" rel="noopener noreferrer">Digital, digital, digital, I would never find another you</a></p>]]></content>
-        <author>
-            <name>alter-self</name>
-            <uri>https://soundcloud.com/softybear/shaed-trampoline-softybear-remix</uri>
-        </author>
-        <category label="thoughts" term="thoughts"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
         <id>https://nusantara-self.github.io/blog/hello-world</id>
