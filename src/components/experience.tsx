@@ -35,6 +35,15 @@ const experience = [
             4: "Aug 2022 - Designing overall SOC approach, strategy, processes, tools & metrics with an automation-driven mindset. Increasing its efficiency & aligning SOC use-cases with threat intelligence & business needs. Internal team of five."
         },
     },
+    {
+        company: "SANS Institute",
+        position: "Attendee - Cybersecurity masterclasses & certification",
+        date: "Sep 2022 | July 2023",
+        desc: {
+            1: "MGT551 - Building & Leading Security Operations Center (Sep 2022). Resulted in GIAC Security Operations Manager certification 4 months later (Jan 2023).",
+            2: "SEC599 - Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (July 2023)"
+        },
+    },
 ];
 function Experience() {
     const [value, setValue] = useState(0);
