@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Fabien Bloume Blog</title>
+        <link>https://nusantara-self.github.io/blog</link>
+        <description>Fabien Bloume Blog</description>
+        <lastBuildDate>Sun, 25 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[The beauty in our world]]></title>
+            <link>https://nusantara-self.github.io/blog/the-beauty-in-our-world</link>
+            <guid>https://nusantara-self.github.io/blog/the-beauty-in-our-world</guid>
+            <pubDate>Sun, 25 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ReactPlayer]]></description>
+            <content:encoded><![CDATA[<div style="width:640px;height:360px" class="react-player"></div><p></p><p><strong>What an era we live in.</strong></p><p>Not sure if every human being on earth that existed over the thousands of years <em>(which is an insignifiant amount of time to be fair)</em> commonly felt that way about their era, but wow, guess we've found ourselves a winner, as I feel like we're in <strong>a truly special era</strong> of our humankind.</p><p>I'm a 95' kid, and I noticed the world switch.</p><p>Communication platforms were just single channels in <em>now-retro</em> TV, we had analog phones at best (<em>which was already incredible</em>). Now, we get to have immensely powerful computer chips in our pockets; occasionnally telling us what we should buy next and triggering bell sounds every now and then, making sure we stay "<em>connected</em>".</p><p>Our world completely transformed, <em>technologically</em>, <em>socially</em> for the better or worse. I'll stand with the better.</p><p>We have been <em>(unequally)</em> blessed with the <strong>ability to teleport</strong>. We literally have the ability to visit or live in <em>very, very</em> distant lands in less than a day. A land where no one lives the way we're used to, where people express differently in words and body language.
+And.. we may stay in this land for short or long times, sometimes never even coming back. What would have been a trip of a lifetime earlier is possible today in a single day.
+Knowing what's outside of our environment is now easier than ever.  Putting into perspective how cultures, beliefs and religions are all tied to the environment we grow up in.</p><p><strong>Anyone is free to learn anything</strong>. We <strong><em>almost equally have access</em></strong> to the <strong>most complete encyclopedias the world has known</strong>, search engines, making the most profound knowledge database accessible to the many. We also have the <strong>superpower to interact with physically distant people in real-time</strong>, even with people we may never even meet physically in our lifetime. Crazy.</p><p>We've got entire countries powered by electricity, to which the same physics principles can be applied to make electronic sounds translating into music. <a href="https://youtu.be/8W49pp_HN7w?t=134" target="_blank" rel="noopener noreferrer">Playing single notes in divine symphony, creating the dream of a perfect melody</a>.</p><p>We are the generation of the infinite and finite, the generation of the all or nothing, the one that is about to have it all or destroy it all.
+Our meaning is to strive for the better, take the advantage of each opportunities this craziness times bring to us.</p><p>At least we would have tried. And sometimes, trying is good enough.</p><p>And if one day the clock stops ticking, at least I'll have this content to be up till the end of times.. <em>or just till the end of this hosting platform.</em></p><p><a href="https://www.youtube.com/watch?v=2ZAWXs9QOfo&amp;t=28s" target="_blank" rel="noopener noreferrer">Digital, digital, digital, I would never find another you</a></p>]]></content:encoded>
+            <category>thoughts</category>
+        </item>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <link>https://nusantara-self.github.io/blog/hello-world</link>
+            <guid>https://nusantara-self.github.io/blog/hello-world</guid>
+            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[My name is Fabien, I'm a 27 years old cybersecurity engineer and.. this is my first blog post on here. :)]]></description>
+            <content:encoded><![CDATA[<p>My name is <strong>Fabien</strong>, I'm a <strong>27 years old cybersecurity engineer</strong> and.. this is my first blog post on here. :)</p><p>Most of my posts here will be <strong>tech-related</strong> and the main goal is to document my <strong>learning</strong> and <strong>exploration journey</strong>.</p><p>From time-to-time, some posts might be more <em>personal</em>, like <em>travel</em> or <em>music</em> related; I just hope to <strong>make of that space one that truly defines things I wish to share</strong> and I'm <strong>passionnate about</strong>. Making it as comfortable as I wish it to be. No worries, tagging <em>might</em> be used in order to separate those!</p><p>A documentation tab will also be present to allow for storing quick tips &amp; tricks on specific subjects : <strong>cloud</strong>, <strong>python</strong>, <strong>automation</strong>, <strong>security operations</strong> and so on.</p><p>If some things are useful to me, then they might be to you; welcome to my space.</p><p>Enjoy!</p><div style="width:640px;height:360px" class="react-player"></div>]]></content:encoded>
+            <category>introduction</category>
+        </item>
+    </channel>
+</rss>
