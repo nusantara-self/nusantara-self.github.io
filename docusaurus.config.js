@@ -126,7 +126,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      metadata: [{ name: 'Fabien Bloume', content: 'tech, cybersecurity, cloud, travel' }],
+      metadata: [{ name: 'keywords', content: 'tech, cybersecurity, cloud, travel, fabien bloume, gcp, thehive, shuffle' }],
     }),
 };
 
