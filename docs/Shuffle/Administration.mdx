@@ -74,7 +74,7 @@ services:
       - node.name=shuffle-opensearch
       - discovery.seed_hosts=shuffle-opensearch
       - cluster.initial_master_nodes=shuffle-opensearch
-        # - node.store.allow_mmap=false
+      - node.store.allow_mmap=false
     ulimits:
       memlock:
         soft: -1
@@ -151,9 +151,9 @@ SHUFFLE_PASS_APP_PROXY=FALSE
 TZ=Europe/Amsterdam 					# Timezone-handler in Orborus, Worker and Apps
 ORBORUS_CONTAINER_NAME=				# Used to FIND the containername. cgroup v2: issue 501
 
-SHUFFLE_BASE_IMAGE_NAME=frikky
+SHUFFLE_BASE_IMAGE_NAME=shuffle
 SHUFFLE_BASE_IMAGE_REGISTRY=ghcr.io
-SHUFFLE_BASE_IMAGE_TAG_SUFFIX="-1.0.0"
+SHUFFLE_BASE_IMAGE_TAG_SUFFIX="-1.1.0"
 
 # Used for auto-cleanup of containers. REALLY important at scale.
 SHUFFLE_CONTAINER_AUTO_CLEANUP=true
@@ -270,9 +270,9 @@ SHUFFLE_PASS_APP_PROXY=FALSE
 TZ=Europe/Amsterdam 					# Timezone-handler in Orborus, Worker and Apps
 ORBORUS_CONTAINER_NAME=				# Used to FIND the containername. cgroup v2: issue 501
 
-SHUFFLE_BASE_IMAGE_NAME=frikky
+SHUFFLE_BASE_IMAGE_NAME=shuffle
 SHUFFLE_BASE_IMAGE_REGISTRY=ghcr.io
-SHUFFLE_BASE_IMAGE_TAG_SUFFIX="-1.0.0"
+SHUFFLE_BASE_IMAGE_TAG_SUFFIX="-1.1.0"
 
 # Used for auto-cleanup of containers. REALLY important at scale.
 SHUFFLE_CONTAINER_AUTO_CLEANUP=true
