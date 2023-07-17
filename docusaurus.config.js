@@ -127,7 +127,7 @@ const config = {
         copyright: `<span style="font-size: 12px;">Copyright © ${new Date().getFullYear()} nusantara-self. Built with Docusaurus.</span>`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
       metadata: [{ name: 'keywords', content: 'tech, cybersecurity, cloud, travel, fabien bloume, gcp, thehive, shuffle' }],
