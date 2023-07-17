@@ -56,6 +56,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-JLZ2PSW2R7',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -97,7 +101,7 @@ const config = {
       },
       /*      
             googleAnalytics: {
-              trackingID: 'UA-****',
+              trackingID: 'UA-XXXX',
               anonymizeIP: true, // Should IPs be anonymized?
             }, */
       footer: {
