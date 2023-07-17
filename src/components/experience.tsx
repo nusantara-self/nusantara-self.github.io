@@ -29,7 +29,7 @@ const experience = [
         position: "Attendee - Cybersecurity masterclasses & certification",
         date: "Sep 2022 | July 2023",
         desc: {
-            1: "MGT551 - Building & Leading Security Operations Center (Sep 2022). Resulted in GIAC Security Operations Manager certification 4 months later (Jan 2023).",
+            1: "MGT551 - Building & Leading Security Operations Center (Sep 2022). Resulted in GIAC Security Operations Manager certification 4 months later (Jan 2023) as well as GIAC Advisory Board member.",
             2: "SEC599 - Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (July 2023)"
         },
     },
