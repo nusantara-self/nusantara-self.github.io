@@ -34,7 +34,7 @@ const experience = [
         },
     },
     {
-        company: "Decathlon Technology",
+        company: "Decathlon Digital",
         position: "SOC Practice Lead",
         date: "Jan 2019 - till now ",
         desc: {
