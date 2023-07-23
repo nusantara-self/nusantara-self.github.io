@@ -7,7 +7,7 @@ const socialDetails = [
     {
         name: 'linkedin',
         classname: 'fab fa-linkedin fa-fw',
-        link: 'https://www.linkedin.com/in/bloumefabien/',
+        link: 'https://www.linkedin.com/in/fabienbloume/',
     },
     {
         name: 'github',
