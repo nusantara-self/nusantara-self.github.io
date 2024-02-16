@@ -18,10 +18,10 @@ docker build -t myneuron:latest .
 docker run --rm -v ${PWD}:/job myneuron:latest
 ```
 
-## Test remote existing cortex-neurons (on MacOS)
+### Test remote existing cortex-neurons (on MacOS Apple Silicon)
 
 ```bash
-docker run --platform=linux/amd64 -v ${PWD}:/job cortexneurons/dshield_lookup:devel
+docker run --rm --platform=linux/amd64 -v ${PWD}:/job cortexneurons/dshield_lookup:devel
 ```
 
 :::info
@@ -58,4 +58,16 @@ Make sure to have a ./input/input.json file configured locally. If the cortex ne
    "pap":2,
    "message":"1"
 }
+```
+
+### Debug remote existing cortex-neuron from command-line
+
+```bash
+docker run -ti --platform linux/amd64 --name=mylocalneuron --rm --entrypoint /bin/bash  cortexneurons/falconsandbox:devel
+```
+
+Upon new changes, to create an image if needed (better build from scratch, not recommended):
+
+```bash
+docker commit mylocalneuron mylocalneuron:latest
 ```
