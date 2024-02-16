@@ -1,5 +1,8 @@
 # Port-forwarding to localhost
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 ## Install the gcloud CLI
 
 [Official documentation](https://cloud.google.com/sdk/docs/install#linux)
