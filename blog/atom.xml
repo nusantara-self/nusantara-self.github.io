@@ -13,7 +13,13 @@
         <link href="https://nusantara-self.github.io/blog/hello-world"/>
         <updated>2022-09-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[My name is Fabien, I'm a 28+ years old cybersecurity engineer and.. this is my first blog post on here. :)]]></summary>
-        <content type="html"><![CDATA[<p>My name is <strong>Fabien</strong>, I'm a <strong>28+ years old cybersecurity engineer</strong> and.. this is my first blog post on here. :)</p><p>Most of my posts here will be <strong>tech-related</strong> and the main goal is to document my <strong>learning</strong> and <strong>exploration journey</strong>.</p><p>From time-to-time, some posts might be more <em>personal</em>, like <em>travel</em> or <em>music</em> related; I just hope to <strong>make of that space one that truly defines things I wish to share</strong> and I'm <strong>passionnate about</strong>. Making it as comfortable as I wish it to be.</p><p>A documentation tab will also be present to allow for storing quick tips &amp; tricks on specific subjects : <strong>cloud</strong>, <strong>python</strong>, <strong>automation</strong>, <strong>security operations</strong> and so on.</p><p>If some things are useful to me, then they might be to you; welcome to my space.</p><p>Enjoy!</p><div style="width:640px;height:360px" class="react-player"></div>]]></content>
+        <content type="html"><![CDATA[<p>My name is <strong>Fabien</strong>, I'm a <strong>28+ years old cybersecurity engineer</strong> and.. this is my first blog post on here. :)</p>
+<p>Most of my posts here will be <strong>tech-related</strong> and the main goal is to document my <strong>learning</strong> and <strong>exploration journey</strong>.</p>
+<p>From time-to-time, some posts might be more <em>personal</em>, like <em>travel</em> or <em>music</em> related; I just hope to <strong>make of that space one that truly defines things I wish to share</strong> and I'm <strong>passionnate about</strong>. Making it as comfortable as I wish it to be.</p>
+<p>A documentation tab will also be present to allow for storing quick tips &amp; tricks on specific subjects : <strong>cloud</strong>, <strong>python</strong>, <strong>automation</strong>, <strong>security operations</strong> and so on.</p>
+<p>If some things are useful to me, then they might be to you; welcome to my space.</p>
+<p>Enjoy!</p>
+<div style="width:640px;height:360px" class="react-player"></div>]]></content>
         <author>
             <name>Fabien Bloume</name>
             <uri>https://github.com/nusantara-self</uri>
