@@ -132,6 +132,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       metadata: [{ name: 'keywords', content: 'tech, cybersecurity, cloud, travel, fabien bloume, gcp, thehive, shuffle' }],
+      customFields: {
+        spotifyTrackUrl: 'https://open.spotify.com/embed/track/4GKSQD4lm08ORPorzi2wOb',
+      },
     }),
 };
 
