@@ -47,7 +47,7 @@ function HomepageHeader() {
         <div className="heroBanner">
           <br></br>
           <br></br>
-          <a href="https://linkedin.com/in/bloumefabien"><FontAwesomeIcon icon={faLinkedin} size="3x" /></a>
+          <a href="https://linkedin.com/in/fabienbloume"><FontAwesomeIcon icon={faLinkedin} size="3x" /></a>
           <a style={{ marginLeft: '4%' }} href="https://medium.com/@fabienbloume"><FontAwesomeIcon icon={faMedium} size="3x" /></a>
         </div>
       </div>
