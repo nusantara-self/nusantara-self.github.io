@@ -1,0 +1,82 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  max-height: 100vh;
+  /* margin: auto; */
+  flex-direction: column;
+}
+
+.app-container .navbar {
+  margin-bottom: 0.5rem;
+}
+
+.app-wrapper {
+  flex: 1;
+  display: flex;
+  /* border: 1px solid red; */
+  margin: 0 0;
+  padding: 0.5rem;
+  gap: 0.5rem;
+  max-height: 100vh;
+}
+
+.app-input {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-input .btn {
+  margin-bottom: 0.5rem;
+}
+
+.app-input > div.panel {  
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
+.app-input .panel-body {
+  flex: 1;
+  display: flex;
+  max-height: 100%;
+  padding: 0;
+}
+
+.app-input .panel-body > textarea {
+  flex: 1;   
+  margin: 0.5rem;
+  /* border: none;  */
+}
+
+.app-output {
+  flex: 3;
+  overflow-y: scroll;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* align-items center; */
+}
+
+.app-output .empty-message {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ace_editor {
+  flex: 1;
+}
+
+report {
+  margin-top: 0.5rem;
+}
