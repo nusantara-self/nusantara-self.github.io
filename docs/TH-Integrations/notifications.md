@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: Notifications
+---
+
 # TheHive Notification Filters
 
 Ready-to-use notification filters for TheHive. These filters can be used to trigger notifications based on specific events.

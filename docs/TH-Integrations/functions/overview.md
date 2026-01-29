@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Overview
+---
+
 # Functions Catalog
 
 Example functions for TheHive. Use them as-is or as inspiration for your own.

@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Overview
+---
+
 # External Integrations Catalog
 
 Community and vendor-built integrations that connect various platforms with TheHive and Cortex.

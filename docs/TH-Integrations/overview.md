@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: Overview
+---
+
 # Integration Catalog
 
 Auto-generated catalog of TheHive and Cortex integrations.
@@ -381,7 +386,5 @@ Built something useful? Contributions are welcome!
 - **[Zscaler](vendors/Zscaler/overview.md)** - *Uncategorized* - 2 analyzers
 
 ---
-
-📖 **[View individual vendor documentation](vendors/)** for detailed integration information.
 
 *This catalog is auto-generated. Do not edit manually.*

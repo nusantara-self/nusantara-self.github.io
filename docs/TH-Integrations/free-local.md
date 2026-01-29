@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Free & Local Integrations
 
 Integrations that are either free to use or run locally without external dependencies.
