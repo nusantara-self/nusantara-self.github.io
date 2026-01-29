@@ -179,7 +179,7 @@ Built something useful? Contributions are welcome!
 
 ### URL Analysis
 
-**[URLScan.io](vendors/Urlscan.io/overview.md)** (2 integrations)
+**[URLScan.io](vendors/Urlscan-io/overview.md)** (2 integrations)
   URLScan.io is an automated web scanner that analyzes URLs and websites in real-time, capturing sc...
 
 
@@ -365,9 +365,9 @@ Built something useful? Contributions are welcome!
 - **[TorProject](vendors/TorProject/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Triage](vendors/Triage/overview.md)** - *Uncategorized* - 1 analyzers
 - **[UnshortenLink](vendors/UnshortenLink/overview.md)** - *Uncategorized* - 1 analyzers
-- **[urlDNA.io](vendors/urlDNA.io/overview.md)** - *Uncategorized* - 2 analyzers
+- **[urlDNA.io](vendors/urlDNA-io/overview.md)** - *Uncategorized* - 2 analyzers
 - **[URLhaus](vendors/URLhaus/overview.md)** - *Threat Intelligence* - 1 analyzers
-- **[URLScan.io](vendors/Urlscan.io/overview.md)** - *URL Analysis* - 2 analyzers
+- **[URLScan.io](vendors/Urlscan-io/overview.md)** - *URL Analysis* - 2 analyzers
 - **[Valhalla](vendors/Valhalla/overview.md)** - *Uncategorized* - 1 analyzers
 - **[ValidateObservable](vendors/ValidateObservable/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Velociraptor](vendors/Velociraptor/overview.md)** - *DFIR* - 1 responders

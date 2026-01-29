@@ -671,7 +671,7 @@ Submit artifacts to the Recorded Future Triage sandbox service. This analyzer re
 <details>
 <summary><strong>UrlDNA_New_Scan</strong> <code>v0.1.0</code> [Free] - urlDNA.io</summary>
 
-**Vendor:** [urlDNA.io](vendors/urlDNA.io/overview)
+**Vendor:** [urlDNA.io](vendors/urlDNA-io/overview)
 **Data Types:** `url`
 
 Perform a new scan on urlDNA.io
@@ -681,7 +681,7 @@ Perform a new scan on urlDNA.io
 <details>
 <summary><strong>UrlDNA_Search</strong> <code>v0.1.0</code> [Free] - urlDNA.io</summary>
 
-**Vendor:** [urlDNA.io](vendors/urlDNA.io/overview)
+**Vendor:** [urlDNA.io](vendors/urlDNA-io/overview)
 **Data Types:** `ip`, `domain`, `url`
 
 Perform a search on urlDNA.io for IPs, domains or URLs
@@ -701,7 +701,7 @@ Search domains, IPs, URLs or hashes on URLhaus.
 <details>
 <summary><strong>Urlscan.io_Scan</strong> <code>v0.1.0</code> [Free] - URLScan.io</summary>
 
-**Vendor:** [URLScan.io](vendors/Urlscan.io/overview)
+**Vendor:** [URLScan.io](vendors/Urlscan-io/overview)
 **Data Types:** `url`, `domain`, `fqdn`
 
 Scan URLs on urlscan.io
@@ -711,7 +711,7 @@ Scan URLs on urlscan.io
 <details>
 <summary><strong>Urlscan.io_Search</strong> <code>v0.1.1</code> [Free] - URLScan.io</summary>
 
-**Vendor:** [URLScan.io](vendors/Urlscan.io/overview)
+**Vendor:** [URLScan.io](vendors/Urlscan-io/overview)
 **Data Types:** `ip`, `domain`, `hash`, `fqdn`, `url`
 
 Search IPs, domains, hashes or URLs on urlscan.io
