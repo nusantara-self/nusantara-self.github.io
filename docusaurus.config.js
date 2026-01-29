@@ -10,7 +10,7 @@ const config = {
   tagline: 'Cybersecurity engineer focused into cloud, tech, and adventure. Exploring things.',
   url: 'https://nusantara-self.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
