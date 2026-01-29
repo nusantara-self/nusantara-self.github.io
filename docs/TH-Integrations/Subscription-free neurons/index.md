@@ -1,8 +1,5 @@
----
-sidebar_position: 2
----
 
-# Free & Local Integrations
+# Subscription-free Neurons
 
 Integrations that are either free to use or run locally without external dependencies.
 
